@@ -1,0 +1,25 @@
+--vscode extension
+color hightlight
+EditorConfig for VS Code
+ESLint
+Git History
+Copilot
+hightlight matching tag
+inline parameter vscode
+js es6 code snippet
+JavaScript and TypeScript Nightly
+Laravel Blade Spacer
+Laravel Extension Pack
+Markdown Preview Enhanced
+MySQL Syntax
+Paste JSON as Code
+Path Intellisense
+PHP DocBlocker
+PHP Namespace Resolver
+Quokka.js
+Trailing Spaces
+---chrome exten
+colorzilla
+page ruler
+Better YouTube Theatre Mode
+Hide YouTube™ Fullscreen Controls
